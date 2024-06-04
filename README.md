@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @nanoukvd
+- 👀 I’m interested in creating tools that make life and work easier
+- 🌱 I’m currently learning programming in Python
+- 📫 How to reach me: I guess there is a chat function here somewhere...
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I actually like math
